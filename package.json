@@ -1,0 +1,25 @@
+{
+  "name": "make-http-happen",
+  "version": "1.0.0",
+  "description": "Drop in replacement for http(s).request, but with caching logic and more!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praveen Ranjan Keshri",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prkeshri/node-make-http.git"
+  },
+  "keywords": [
+    "http",
+    "http-request",
+    "request",
+    "cache"
+  ],
+  "bugs": {
+    "url": "https://github.com/prkeshri/node-make-http/issues"
+  },
+  "homepage": "https://github.com/prkeshri/node-make-http#readme"
+}
