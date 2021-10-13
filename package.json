@@ -1,7 +1,7 @@
 {
   "name": "make-http-happen",
-  "version": "1.0.0",
-  "description": "Drop in replacement for http(s).request, but with caching logic and more!",
+  "version": "1.0.1",
+  "description": "Work in Progress - Please don't use as of now! Drop in replacement for http(s).request, but with caching logic and more!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
